@@ -6,7 +6,7 @@
 ### Projeto do bootcamp santander backend com java, o desafio desse projeto é criar um sistema de gerenciamento para o banco, cliente e contas, com foco em programação orientada a objetos.
 
 <p>
-  Classes: <br
+  Classes: <br>
   Cliente | Banco | Conta | ContaCorrente | ContaPoupanca | IConta 
 </p>
 
