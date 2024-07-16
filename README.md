@@ -7,7 +7,7 @@
 
 <p>
   Classes: <br>
-  Cliente | Banco | Conta | ContaCorrente | ContaPoupanca | IConta 
+  > Cliente | Banco | Conta | ContaCorrente | ContaPoupanca | IConta 
 </p>
 
 <p>Acesse meu perfil na DIO: [Igor Daniel](https://web.dio.me/users/igordaniel1903?tab=achievements)</p>
